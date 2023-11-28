@@ -22,7 +22,7 @@
         ]
     },
     "dependencies": {
-        "cordova-android": "^8.1.0",
+        "cordova-android": "^9.0.0",
         "cordova-ios": "^5.1.1",
         "cordova-plugin-device": "^1.1.7",
         "cordova-plugin-ionic-webview": "^4.1.3",
